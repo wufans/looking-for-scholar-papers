@@ -66,9 +66,9 @@ b)	下载后得到exe文件，双击后在浏览器中出现应用页面，即�
 
 如何使用免费节点上网（亲自测试通过）。步骤如下：
 
->（1）进入https://zcssr.com/auth/register并完成注册，需要输入邮箱（最好选个不常用的，不需要验证）、密码等信息。
+>（1）进入https://zcssr.com/auth/register 并完成注册，需要输入邮箱（最好选个不常用的，不需要验证）、密码等信息。
 
->（2）登陆，根据教程https://zcssr.me/user/tutorial完成配置。（详情参照链接）
+>（2）登陆，根据教程https://zcssr.me/user/tutorial 完成配置。（详情参照链接）
 
 a)下载SSR客户端：
 b)导入节点
