@@ -84,7 +84,7 @@ d)成功！
 ---
 
 ## :musical_note:附件：
-[（免费节点信息）][https://adoncn.com/30992/]
+[（免费节点信息）](https://adoncn.com/30992/)
 
 
 地址14： http://www.miluxh.com/freezh
