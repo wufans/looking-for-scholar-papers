@@ -46,6 +46,11 @@ b)	下载后得到exe文件，双击后在浏览器中出现应用页面，即�
 
 >缺点：每个月只有免费的500M，升级专业版一年38$
 
+:warning: 更新一个**破解版**Lantern的地址，见[Github链接](https://github.com/ntkernel/lantern)~
+
+>复制链接到浏览器打开 https://ppt.cc/fJ6r8x
+>下载二 https://ppt.cc/fuuyVx  下载三 http://simp.ly/publish/JTm2wc
+
 ## :coffee: 方法C：购买国外VPS服务器，搭建Shadowsocks服务器，并下载Shadowsocks客户端安装
 
 教程可以参考：https://www.vpndada.com/shadowsocks-tutorial-cn/
