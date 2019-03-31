@@ -46,7 +46,7 @@ b)	下载后得到exe文件，双击后在浏览器中出现应用页面，即�
 
 >缺点：每个月只有免费的500M，升级专业版一年38$
 
-:warning: 更新一个**破解版**Lantern的地址，见[Github链接](https://github.com/ntkernel/lantern)~
+### :warning: 更新一个**破解版**Lantern的地址，见[Github链接](https://github.com/ntkernel/lantern)~
 
 >复制链接到浏览器打开 https://ppt.cc/fJ6r8x
 >下载二 https://ppt.cc/fuuyVx  下载三 http://simp.ly/publish/JTm2wc
@@ -60,6 +60,8 @@ b)	下载后得到exe文件，双击后在浏览器中出现应用页面，即�
 >缺点：贵（服务器费用高），搭建过程很复杂。
 
 ## :coffee: 方法D：借助别人分享的Shadowsocks节点链接科学上网
+
+### :warning: **更新免费的SSR节点（亲测可用，速度不错）**：[免费上网账号](https://free-ss.site/)
 
 ### 主要有两种方法：
 
@@ -89,6 +91,7 @@ d)成功！
 ---
 
 ## :musical_note:附件：
+
 [（免费节点信息）](https://adoncn.com/30992/)
 
 
