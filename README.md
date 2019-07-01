@@ -20,7 +20,7 @@ http://test-ipv6.com/
 
 目录：C:\Windows\System32\drivers\etc\hosts
 
-Hosts文件不断更新的地址：https://github.com/popcorner/cernet-ipv6-hosts/blob/master/hosts
+Hosts文件不断更新的地址：https://github.com/googlehosts
 
 ### 3. 在cmd命令行中输入
 
