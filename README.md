@@ -1,7 +1,7 @@
 # looking-for-scholar-papers
 # 科学上网不完全教程
 
-# 更新：可以用酷鸟浏览器科学上网啦！（官方允许的嗷~）
+# 更新：可以用<font color="red">酷鸟浏览器</font>科学上网啦！（官方允许的嗷~）
 https://ie.kuniao.com/
 需要邀请码可以email~
 
